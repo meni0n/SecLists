@@ -415,7 +415,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /_/rsrc
 /_widget
 /album/*/*?i=
-/analytics
 /api
 /api$
 /api?
@@ -457,8 +456,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /events/rss
 /events/xml
 /feedarticle
-/followers
-/following
 /format:thumbnail
 /forum-attachment
 /gcrnsts
@@ -466,11 +463,8 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /isv/*?
 /layout/
 /likes
-/likes?
 /login
 /lookup?
-/media
-/media?
 /mediaapi/
 /meetup_api
 /meetup_api$
@@ -483,16 +477,12 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /newest/*xml
 /newsearch/
 /partials
-/photo$
-/photo?
 /plugins
 /podcast/*/*?i=
 /print$
 /qa-folder
 /raw
 /report_abuse
-/retweets
-/retweets?
 /revisions
 /rss
 /rsvps/*atom
@@ -532,7 +522,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /tree
 /tv-season/*/*?i=
 /unsubscribe/
-/verified_followers
 /video-
 /videos
 /wal/
@@ -829,7 +818,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?kref=
 ?kuid=
 ?lang=
-?lang=en-ss
 ?lightbox[modal]=
 ?linkId=
 ?list=wall
@@ -890,7 +878,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?ref_cta=
 ?ref_loc=
 ?ref_page=
-?ref_src=
 ?referrer=
 ?rel=
 ?reply=
@@ -938,7 +925,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?success=
 ?sv=
 ?syclid=
-?t=
 ?tab=
 ?tab=achievements&achievement=
 ?tblci=
@@ -1139,7 +1125,6 @@ accessibility-statement
 account
 account-login
 account/
-account/deactivated
 accounts/ClientAuth
 accounts/ClientAuth
 accounts/ClientLogin
@@ -2035,7 +2020,6 @@ guest-star
 guidebooks
 gview
 h5games_gamecenter/images
-hashtag/*?src=
 hd
 header/channels
 headline.txt
@@ -2068,17 +2052,15 @@ hp/video
 hpc/*/supported-applications.aspx?
 hpm
 hpmob
-http://amazon.de/robots.txt
-http://archive.org/robots.txt
-http://cdn.jsdelivr.net/robots.txt
-http://web.archive.org/robots.txt
+http://blog.google/robots.txt
+http://de.wikipedia.org/robots.txt
+http://facebook.com/robots.txt
+http://patreon.com/robots.txt
 hub?category=
 hz/contact-us/ajax/initiate-trusted-contact
 hz/help/contact/*/message/$
 hz/leaderboard/hall-of-fame
 hz/leaderboard/top-reviewers
-i/api
-i/u
 icdp
 icons
 identity/accountsettingsactivityweb
@@ -2667,7 +2649,6 @@ search*sort=
 search-ar-dev
 search-console/scfe
 search/
-search/*/grid
 search/?
 search/?term=
 search/about
@@ -2675,16 +2656,12 @@ search/advanced
 search/default.aspx?*
 search/howsearchworks
 search/live?
-search/realtime
 search/user?q=
-search/users
 search/video?
 search?
-search?*cashtagRestId=
 search?*tbm=map
 search?q$
 search?q=
-search?q=%23
 search\?
 search_history
 sections
@@ -2698,7 +2675,6 @@ services/oauth
 setprefs
 settings
 settings
-settings/deactivated
 sf/test
 sgtm/g/collect
 sh
@@ -4061,7 +4037,7 @@ wiki/Wikipedia%3AVandalismi_in_corso
 wiki/Wikipedia%3AVandalismusmeldung
 wiki/Wikipedia%3AVandalismusmeldung%2F
 wiki/Wikipedia%3AVermittlungsausschuss
-wiki/Wikipedia%3AVermittlungsausschuss%2Fhttp://discord.gg/robots.txt
+wiki/Wikipedia%3AVermittlungsausschuss%2Fhttp://cdc.gov/robots.txt
 wiki/Wikipedia%3AVotes_for_deletion
 wiki/Wikipedia%3AWikiProject_Deletion_sorting
 wiki/Wikipedia%3AWikiProject_Spam
@@ -4230,7 +4206,7 @@ wiki/Wikipedia_Diskussion:Checkuser%2F
 wiki/Wikipedia_Diskussion:Spam-Blacklist-Log
 wiki/Wikipedia_talk%3AAbuse_reports
 wiki/Wikipedia_talk%3AAbuse_response
-wiki/Wikipedia_talk%3AAdministrator_electionshttp://play.google.com/robots.txt
+wiki/Wikipedia_talk%3AAdministrator_electionshttp://youtu.be/robots.txt
 wiki/Wikipedia_talk%3AAdministrator_recall
 wiki/Wikipedia_talk%3AAdministrator_review
 wiki/Wikipedia_talk%3AAdministrators%27_noticeboard
